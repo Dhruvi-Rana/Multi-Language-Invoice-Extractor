@@ -1,0 +1,6 @@
+// To create Multilanguage Invoice Extractor you have this given below requirments  
+stremlit
+google-genrativeai
+python-dotenv
+LangchainPDF2
+chromadb
